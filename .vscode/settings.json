@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\apple_spaghetti\\anaconda3\\lib\\site-package"
+    ],
+    "python.pythonPath": "C:\\Users\\apple_spaghetti\\anaconda3\\python.exe"
+
+}
